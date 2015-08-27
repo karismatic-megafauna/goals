@@ -14,6 +14,7 @@ The full journal can be found [here]().
 - Get Better at React
   - particularly animations
 - Read YDKJS
+- Consistently Contribute to DevLocker 
 - Complete FrontendMasters Courses
 - Learn How to Circular Breathe
 - Learn Piano
