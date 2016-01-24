@@ -11,23 +11,24 @@ in that day.
 The full journal can be found [here]().
 
 ## Short Term
-- Get Better at React
-  - particularly animations
-  - Make Ole! 
-- Read YDKJS
-- Consistently Contribute to DevLocker 
-- Complete FrontendMasters Courses
-- Learn How to Circular Breathe
-- Learn Piano
-- Shoot Bow and Arrow once a Week 
-- Faster with Vim
-  - Morning warm-ups with shortcut foo?
-- Write `Tab Prefixer` for Vim
+- [ ] Read YDKJS
+- [x] Learn How to Circular Breathe
+- [ ] Do something with the Raspberry Pi
 
-Details of these goals can be found [here]().
+[more info]().
 
 ## Long Term
-- Be able to work remote more effectively so I can travel the world
-- Spend a percent of my working hours helping others
+- [ ] Complete FrontendMasters Courses
+- [ ] Be able to work remote more effectively so I can travel the world
+- [ ] Spend a percent of my working hours helping others
+- [ ] Make a video game
 
-Details of these goals can be found [here]().
+[more info]().
+
+## Ongoing
+- [ ] Shoot Bow and Arrow once a Week
+- [ ] Faster with Vim
+  - [ ] Morning warm-ups with shortcut foo?
+- [ ] Learn Piano
+
+[more info]().
