@@ -8,12 +8,16 @@ myself honest about the things I want to achieve.
 Trying to do a "commit a day". That commit will describe what I have accomplished
 in that day.
 
-The full journal can be found [here]().
+The full journal can be found [here](https://github.com/michaelghinrichs/goals/tree/master/Journal).
 
 ## Short Term
-- [ ] Read YDKJS
+- [ ] Finish Coding Math series
 - [x] Learn How to Circular Breathe
 - [ ] Do something with the Raspberry Pi
+- [ ] Finish Bash Academy
+- [ ] Read YDKJS
+- [ ] Read "Search Inside Yourself"
+- [ ] Read "Mindful Work"
 
 [more info]().
 
