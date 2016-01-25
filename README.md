@@ -19,7 +19,7 @@ The full journal can be found [here](https://github.com/michaelghinrichs/goals/t
 - [ ] Read "Search Inside Yourself"
 - [ ] Read "Mindful Work"
 
-[more info]().
+[more info](https://github.com/michaelghinrichs/goals/tree/master/Shortterm).
 
 ## Long Term
 - [ ] Complete FrontendMasters Courses
@@ -27,7 +27,7 @@ The full journal can be found [here](https://github.com/michaelghinrichs/goals/t
 - [ ] Spend a percent of my working hours helping others
 - [ ] Make a video game
 
-[more info]().
+[more info](https://github.com/michaelghinrichs/goals/tree/master/Longterm).
 
 ## Ongoing
 - [ ] Shoot Bow and Arrow once a Week
@@ -35,4 +35,4 @@ The full journal can be found [here](https://github.com/michaelghinrichs/goals/t
   - [ ] Morning warm-ups with shortcut foo?
 - [ ] Learn Piano
 
-[more info]().
+[more info](https://github.com/michaelghinrichs/goals/tree/master/Ongoing).
