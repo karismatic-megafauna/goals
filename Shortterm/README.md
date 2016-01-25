@@ -1,14 +1,12 @@
-### Finish Coding Math series
+### Finish [Coding Math](https://github.com/michaelghinrichs/coding-math) series
 I am on episode 9 out of 44. Working on making a website that I can publish
 the coding examples to. Going to make it in ES6 with webpack and all the
-modern goodies
-
+modern goodies. Also going to write tests around the library we develop!
 
 ### Do something with the Raspberry Pi
 I ordered a Rasberry Pi, it should be here soon! It has a bunch of starter
 projects in a book that should explain what it does. Probably going to use it
 for something silly around the house
-
 
 ### Finish Bash Academy
 Want to get better at bash scripting so I can have really killer dotfiles
@@ -24,4 +22,3 @@ Have not started
 
 ### Read "Mindful Work"
 Have not started
-
